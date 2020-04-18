@@ -33,7 +33,7 @@ class PostList extends Component {
           name: "Neil Cook",
           avatar: "https://i.pravatar.cc/150?img=8",
         },
-        date: "20 Abril 2020",
+        date: "19 Abril 2020",
         content:
           "Fala galera, beleza?\nEstou fazendo o Bootcamp GoStack e está sendo muito massa! Alguém mais aí fazendo? Comenta aí na publicação para trocarmos uma idéia",
         comments: [
